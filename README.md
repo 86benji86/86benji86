@@ -6,8 +6,8 @@
 **86benji86/86benji86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🤓 Currently learning: JS, ES6, 
-- 👓 Planned learning subjects: React, Node.JS
+- 🤓 Currently learning: JS, ES2020, React
+- 👓 Planned learning subjects: Node.JS
 - 🌍 How to reach me: 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
